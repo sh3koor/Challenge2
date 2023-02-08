@@ -16,4 +16,4 @@ play_number_guessing_game()
 print("Game over...")
 elif current_choice == 3:
 game_finished = True
-print("Thanks for playing!")
+print("Thanks for playing! Dude")
